@@ -11,7 +11,7 @@ This simple system was developed for a c programming language project, the first
 
 - Software & Tool: Codeblocks 
 <div style="width:60px ; height:60px">
- ![codeblocks](https://user-images.githubusercontent.com/48995708/177030492-cfdf67ef-a90f-49e2-8754-ea54809712dc.jpg)
+ <img align="right" alt="C Programming" width="80" src="https://user-images.githubusercontent.com/48995708/177030418-f26f5b61-d261-45da-9d1a-4a32d86d4bca.png" />
 <div>
  
 ### Features

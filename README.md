@@ -53,5 +53,8 @@ This simple system was developed for a c programming language project, the first
         <tr>
           <td><p> Find Total Balance </p><img style="vertical-align:middle" alt="Find Total Balance" src="Screenshots/Screenshot 2020-01-18 12.23.55.png" /></td>
         </tr>
+        <tr>
+          <td><p> Average Balance </p><img style="vertical-align:middle" alt="Average Balance" src="Screenshots/Screenshot 2020-01-18 12.24.02.png" /></td>
+        </tr>
 </table>
 

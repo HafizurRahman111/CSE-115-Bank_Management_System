@@ -41,12 +41,8 @@ This simple system was developed for a c programming language project, the first
 ### Screenshots
 
 <table>
-   
-        
         <tr>
-         <td><p> Starting View </p><img style="vertical-align:middle" alt="Starting View" height"40%" width="40%" src="Screenshots/Screenshot 2020-01-18 12.23.12.png" /></td>
-           
+         <td><p> Starting View </p><img style="vertical-align:middle" alt="Starting View" src="Screenshots/Screenshot 2020-01-18 12.23.12.png" /></td>
         </tr>
-  
 </table>
 

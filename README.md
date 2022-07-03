@@ -4,9 +4,10 @@
 This simple system was developed for a c programming language project, the first Computer Science and Engineering project of my undergraduate life. This will help the banking system create a new account, see and manage transactions, verify the details of an existing account, store the info of the customers, etc. 
 
 ### Technologies & Tools
+<div>
 - Programming Language: C 
-<img align="right" alt="C Programming" width="80" src="https://user-images.githubusercontent.com/48995708/177030418-f26f5b61-d261-45da-9d1a-4a32d86d4bca.png" />
-
+  <img align="right" alt="C Programming" width="80" src="https://user-images.githubusercontent.com/48995708/177030418-f26f5b61-d261-45da-9d1a-4a32d86d4bca.png" />
+</div>
 - Software & Tool: Codeblocks 
 
  

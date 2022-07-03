@@ -50,5 +50,8 @@ This simple system was developed for a c programming language project, the first
         <tr>
           <td><img style="vertical-align:middle" alt="Account Create Successful" src="Screenshots/Screenshot 2020-01-18 12.23.34.png" /></td>
         </tr>
+        <tr>
+          <td><p> Find Total Balance </p><img style="vertical-align:middle" alt="Find Total Balance" src="Screenshots/Screenshot 2020-01-18 12.23.55.png" /></td>
+        </tr>
 </table>
 

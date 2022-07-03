@@ -43,8 +43,6 @@ This simple system was developed for a c programming language project, the first
 <table>
         <tr>
          <td><p> Starting View </p><img style="vertical-align:middle" alt="Starting View" src="Screenshots/Screenshot 2020-01-18 12.23.12.png" /></td>
-        </tr>
-        <tr>
          <td><p> Account Create </p><img style="vertical-align:middle" alt="Account Create" src="Screenshots/Screenshot 2020-01-18 12.23.26.png" /></td>
         </tr>
 </table>

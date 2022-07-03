@@ -42,19 +42,37 @@ This simple system was developed for a c programming language project, the first
 
 <table>
         <tr>
-         <td><p>1. Starting View </p><img style="vertical-align:middle" alt="Starting View" src="Screenshots/Screenshot 2020-01-18 12.23.12.png" /></td>
+          <td><p>1. Starting View </p><img style="vertical-align:middle" alt="Starting View" src="Screenshots/Screenshot 2020-01-18 12.23.12.png" /></td>
         </tr>
         <tr>
-         <td><p>2. Account Create </p><img style="vertical-align:middle" alt="Account Create" src="Screenshots/Screenshot 2020-01-18 12.23.26.png" /></td>
+          <td><p>2. Account Create </p><img style="vertical-align:middle" alt="Account Create" src="Screenshots/Screenshot 2020-01-18 12.23.26.png" /></td>
         </tr>
         <tr>
-          <td><img style="vertical-align:middle" alt="Account Create Successful" src="Screenshots/Screenshot 2020-01-18 12.23.34.png" /></td>
+           <td><img style="vertical-align:middle" alt="Account Create Successful" src="Screenshots/Screenshot 2020-01-18 12.23.34.png" /></td>
         </tr>
         <tr>
           <td><p>3. Find Total Balance </p><img style="vertical-align:middle" alt="Find Total Balance" src="Screenshots/Screenshot 2020-01-18 12.23.55.png" /></td>
         </tr>
         <tr>
-          <td><p>4. Average Balance </p><img style="vertical-align:middle" alt="Average Balance" src="Screenshots/Screenshot 2020-01-18 12.24.02.png" /></td>
+           <td><p>4. Average Balance </p><img style="vertical-align:middle" alt="Average Balance" src="Screenshots/Screenshot 2020-01-18 12.24.02.png" /></td>
+        </tr>
+        <tr>
+          <td><p>5. Max Balance </p><img style="vertical-align:middle" alt="Max Balance" src="Screenshots/Screenshot 2020-01-18 12.24.14.png" /></td>
+        </tr>
+        <tr>
+          <td><p>6. Min Balance </p><img style="vertical-align:middle" alt="Min Balance" src="Screenshots/Screenshot 2020-01-18 12.24.19.png" /></td>
+        </tr>
+        <tr>
+          <td><p>7. Search Account </p><img style="vertical-align:middle" alt="Search Account" src="Screenshots/Screenshot 2020-01-18 12.24.55.png" /></td>
+        </tr>
+        <tr>
+          <td><p>8. All Calculations </p><img style="vertical-align:middle" alt="All Calculations" src="Screenshots/Screenshot 2020-01-18 12.25.09.png" /></td>
+        </tr>
+        <tr>
+          <td><p>9. Copy Stored Info </p><img style="vertical-align:middle" alt="Copy Stored Info" src="Screenshots/Screenshot 2020-01-18 12.28.18.png" /></td>
+        </tr>
+        <tr>
+          <td><p>10. Exit </p><img style="vertical-align:middle" alt="Exit" src="Screenshots/Screenshot 2020-01-18 12.28.31.png" /></td>
         </tr>
 </table>
 

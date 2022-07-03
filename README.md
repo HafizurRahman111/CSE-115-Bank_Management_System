@@ -47,5 +47,8 @@ This simple system was developed for a c programming language project, the first
         <tr>
          <td><p> Account Create </p><img style="vertical-align:middle" alt="Account Create" src="Screenshots/Screenshot 2020-01-18 12.23.26.png" /></td>
         </tr>
+        <tr>
+          <td><img style="vertical-align:middle" alt="Account Create Successful" src="Screenshots/Screenshot 2020-01-18 12.23.34.png" /></td>
+        </tr>
 </table>
 

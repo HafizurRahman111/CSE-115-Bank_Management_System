@@ -6,7 +6,7 @@ This simple system was developed for a c programming language project, the first
 ### Technologies & Tools
 
   <div>
-  <img style="vertical-align:middle" alt="C Programming" height"10%" width="10%" src="https://user-images.githubusercontent.com/48995708/177030418-f26f5b61-d261-45da-9d1a-4a32d86d4bca.png" />
+  <img style="horizontal-align:middle" alt="C Programming" height"10%" width="10%" src="https://user-images.githubusercontent.com/48995708/177030418-f26f5b61-d261-45da-9d1a-4a32d86d4bca.png" />
   
   
   <span style="">- Programming Language: C </span>

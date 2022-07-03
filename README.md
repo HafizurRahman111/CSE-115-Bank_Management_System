@@ -42,19 +42,19 @@ This simple system was developed for a c programming language project, the first
 
 <table>
         <tr>
-         <td><p> Starting View </p><img style="vertical-align:middle" alt="Starting View" src="Screenshots/Screenshot 2020-01-18 12.23.12.png" /></td>
+         <td><p>1. Starting View </p><img style="vertical-align:middle" alt="Starting View" src="Screenshots/Screenshot 2020-01-18 12.23.12.png" /></td>
         </tr>
         <tr>
-         <td><p> Account Create </p><img style="vertical-align:middle" alt="Account Create" src="Screenshots/Screenshot 2020-01-18 12.23.26.png" /></td>
+         <td><p>2. Account Create </p><img style="vertical-align:middle" alt="Account Create" src="Screenshots/Screenshot 2020-01-18 12.23.26.png" /></td>
         </tr>
         <tr>
           <td><img style="vertical-align:middle" alt="Account Create Successful" src="Screenshots/Screenshot 2020-01-18 12.23.34.png" /></td>
         </tr>
         <tr>
-          <td><p> Find Total Balance </p><img style="vertical-align:middle" alt="Find Total Balance" src="Screenshots/Screenshot 2020-01-18 12.23.55.png" /></td>
+          <td><p>3. Find Total Balance </p><img style="vertical-align:middle" alt="Find Total Balance" src="Screenshots/Screenshot 2020-01-18 12.23.55.png" /></td>
         </tr>
         <tr>
-          <td><p> Average Balance </p><img style="vertical-align:middle" alt="Average Balance" src="Screenshots/Screenshot 2020-01-18 12.24.02.png" /></td>
+          <td><p>4. Average Balance </p><img style="vertical-align:middle" alt="Average Balance" src="Screenshots/Screenshot 2020-01-18 12.24.02.png" /></td>
         </tr>
 </table>
 

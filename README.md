@@ -12,14 +12,12 @@ This simple system was developed for a c programming language project, the first
             <th> Software & Tool: Codeblocks </th>
         </tr>
     </thead>
- 
     <tbody>
         <tr>
             <td><img style="vertical-align:middle" alt="C Programming" height"40%" width="40%" src="https://user-images.githubusercontent.com/48995708/177030418-f26f5b61-d261-45da-9d1a-4a32d86d4bca.png" /></td>
             <td><img style="vertical-align:middle" alt="Codeblocks" height"40%" width="40%" src="[https://user-images.githubusercontent.com/48995708/177030418-f26f5b61-d261-45da-9d1a-4a32d86d4bca.png](https://user-images.githubusercontent.com/48995708/177030492-cfdf67ef-a90f-49e2-8754-ea54809712dc.jpg)" /></td>
         </tr>
     </tbody>
- 
 </table>
 
 ### Features

@@ -5,14 +5,10 @@ This simple system was developed for a c programming language project, the first
 
 ### Technologies & Tools
 - Programming Language: C 
-<div style="width:60px ; height:60px">
- ![c-programming](https://user-images.githubusercontent.com/48995708/177030418-f26f5b61-d261-45da-9d1a-4a32d86d4bca.png)
-<div>
+<img align="right" alt="C Programming" width="80" src="https://user-images.githubusercontent.com/48995708/177030418-f26f5b61-d261-45da-9d1a-4a32d86d4bca.png" />
 
 - Software & Tool: Codeblocks 
-<div style="width:60px ; height:60px">
- <img align="right" alt="C Programming" width="80" src="https://user-images.githubusercontent.com/48995708/177030418-f26f5b61-d261-45da-9d1a-4a32d86d4bca.png" />
-<div>
+
  
 ### Features
  - Add Account ( Create a new account )

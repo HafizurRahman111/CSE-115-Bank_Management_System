@@ -4,14 +4,22 @@
 This simple system was developed for a c programming language project, the first Computer Science and Engineering project of my undergraduate life. This will help the banking system create a new account, see and manage transactions, verify the details of an existing account, store the info of the customers, etc. 
 
 ### Technologies & Tools
-- Programming Language: C
- <div>
-   <img style="vertical-align:middle" alt="C Programming" height"10%" width="10%" src="https://user-images.githubusercontent.com/48995708/177030418-f26f5b61-d261-45da-9d1a-4a32d86d4bca.png" />
-</div>
-  
-- Software & Tool: Codeblocks 
 
- 
+ <table>
+    <thead>
+        <tr>
+            <th align="left">- Programming Language: C</th>
+            <th align="right">- Software & Tool: Codeblocks </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="left"><img style="vertical-align:middle" alt="C Programming" height"10%" width="10%" src="https://user-images.githubusercontent.com/48995708/177030418-f26f5b61-d261-45da-9d1a-4a32d86d4bca.png" /></td>
+            <td align="right"><img style="vertical-align:middle" alt="C Programming" height"10%" width="10%" src="https://user-images.githubusercontent.com/48995708/177030418-f26f5b61-d261-45da-9d1a-4a32d86d4bca.png" /></td>
+        </tr>
+    </tbody>
+</table>
+
 ### Features
  - Add Account ( Create a new account )
  - Find Total Balance ( Total balance of all accounts )  
